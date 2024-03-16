@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43d4715e-21b1-4b98-b6f3-ce7edda5de4c" name="Changes" comment="" />
+    <list default="true" id="43d4715e-21b1-4b98-b6f3-ce7edda5de4c" name="Changes" comment="'initial files'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/alla/PycharmProjects/a0-dslproject",
-    "settings.editor.selected.configurable": "preferences.customizations"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,6 +106,9 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/srt/russian" />
+    </ignored-roots>
     <MESSAGE value="'initial files'" />
     <option name="LAST_COMMIT_MESSAGE" value="'initial files'" />
   </component>
